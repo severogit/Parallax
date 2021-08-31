@@ -1,0 +1,52 @@
+:root{
+    /* Variáveis de cor que serão usadas */
+    --corClara: #f4f4f4;
+    --corEscura: #282e34;
+    --corBranca: #FFFFFF;
+    --corCinza: rgb(27, 27, 27);
+    --corPreta: #000000;
+    --corBorda: #111;
+}
+
+body, html{
+    font-family: 'Lato', sans-serif;
+}
+
+.trans{
+    background-color: transparent;
+}
+
+h1{
+    font-size: 27px;
+}
+
+h2{
+    font-size: 22px;
+}
+
+p{
+    padding-top: 20px;
+    text-align: center;
+    word-spacing: 1px;
+    font-size: 18px;
+}
+
+.borda{
+    font-size: 30px;
+    padding: 20px;
+    border-style: solid;
+    border-color: var(--corBorda);
+    background-color: var(--corBorda);
+    color: var(--corBranca);
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+.textoimg{
+    font-size: 22px;
+    color: var(--corBranca);
+    word-spacing: 5px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+

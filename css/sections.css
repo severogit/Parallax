@@ -1,0 +1,20 @@
+section{
+    text-align: center;
+    padding: 50px 80px;
+
+}
+
+.primeira-section{
+    color: var(--corCinza);
+    background-color: var(--corClara);
+}
+
+.segunda-section{
+    color: var(--corBranca);
+    background-color: var(--corEscura);
+}
+
+.terceira-section{
+    color: var(--corBranca);
+    background-color: var(--corEscura);
+}

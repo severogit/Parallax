@@ -1,0 +1,37 @@
+div{
+    text-align: center;
+    width: 100%;
+
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.primeira-div{
+    background-image: url("../imgs/section1.jpg");
+    height: 800px;
+}
+
+.segunda-div{
+    background-image: url("../imgs/section2.jpg");
+    height: 400px;
+}
+
+.terceira-div{
+    background-image: url("../imgs/section3.jpg");
+    height: 400px;
+}
+
+.quarta-div{
+    background-image: url("../imgs/section1.jpg");
+    height: 800px;
+}
+
+.divtitulo{
+    padding-top: 25%;
+}
+
+.divtexto{
+    padding-top: 12%;
+}
